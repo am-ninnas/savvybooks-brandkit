@@ -1,84 +1,47 @@
 # savvybooks-brandkit
-<img width="727" alt="title01" src="https://user-images.githubusercontent.com/10923247/79358623-ba18a300-7f41-11ea-8748-416b0420798b.png">
 
-_Welcome to our brand guidelines and assets. With these guidelines, we want to make it easy for you to integrate PieDao in your communication or product while respecting its brand and licensing restrictions._
+![Frame 4](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/119bd663-9cba-48bd-b90b-efee1c938c32)
 
-<img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359596-15976080-7f43-11ea-8ca4-2182d12b0da0.png">
+_Welcome to our brand guidelines and assets. With these guidelines, we want to make it easy for you to itegrate the SavvyBooks brand and licensing._
+
+<img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
 **Logo & Icon**
 
-Our logo is the combination of a simple wordmark with a colorful circle icon. It exists in only 2 versions: icon only and icon+wordmark. The wordmark also presents different combinations of color background and gray tones variations. Please use it as displayed in this document. Please DO NOT change color, stretch or rotate the logo.
+_The minimalist nature of Savvybooks overall brand and logo was inspired by the simplicity of old versions of Excel. The design includes grids, which we will talk more about below. As a rule, when presenting the logo within a grid, it is always right-aligned, inside of what looks like several rows and columns 'merged' into one, with breathing space. The logotype is written in slightly customised Ladna Regular with registered trademark symbol for finishing touch._
+
+<img width="1310" alt="savvy-logo" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/07285346-59f4-4da1-9a14-9bdad0191ab2">
+
+
+_The monogram itself can be used as a stand-alone element on mediums such as social media avatars. However, when using it separately, the name of the company/brand/product must be present in the same environment, such as social media profile names. When the logos are used outside the grid, then there has to be safe area around it. The safe area of the logo is defined by the width of the letter "S" from the wordmark - nothing can come closer to the logo than the area highlighted by the red outline. There can be more space around the logo but not less._
+
+<img width="873" alt="logo-white-space" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/0b744a9b-756a-4511-9117-00c8277a446f">
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
-
-<img width="820" alt="mainicons" src="https://user-images.githubusercontent.com/10923247/79363658-75443a80-7f48-11ea-9566-865072e60f2b.png">
 
 </br>
 
-**Icon + Wordmark in different color setups**
+**Colors & Backgrounds**
+
+_Savvybooks brand colours are displayed here. The scale of colors presented on this page also indicates the recommended proportions to be used in designs._
+
+![colors](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/cdab7b2e-0a88-45cc-b683-a4559293c9ab)
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
-<img width="820" alt="logosvariations" src="https://user-images.githubusercontent.com/10923247/79420868-0b647900-7fba-11ea-9bc7-3810ee1de438.png">
+**Logo in different color setups**
+_Here are displayed colour combinations for Savvybooks logo. Main combinations are white & purple. Note that if using the variant with a puple background, the text is not white but the light lavender. Only if it's not possible to use colours should the black & white versions be used._
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
-**Colors & Gradients**
+<br>
 
-_We want to maintain our color system as minimal as possible, especially for what concerns the user interface. It will be possible to implement more visual options for marketing materials._
-
-![colors](https://user-images.githubusercontent.com/10923247/79421737-b7f32a80-7fbb-11ea-8d04-061b005a30ee.png)
-
-<img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
-
-<img width="820" alt="gradients" src="https://user-images.githubusercontent.com/10923247/79422761-baef1a80-7fbd-11ea-8ca4-ab0eefac72c3.png">
-
-<img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
-
-**Gradient Background**
-
-_Aside from the PieDAO Icon, this background is shared on a variety of other visuals such as Twitter Cover, Product cards, etc._
-
-![bg](https://user-images.githubusercontent.com/10923247/79424639-c1cb5c80-7fc0-11ea-938d-181e79dcd23f.jpg)
-
-<img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 **Font**
 
-_We are using a great Google Font called Rubik in its two weight variations **Bold** and **Regular**._
-_In the example below a combination of the usage of Rubik Bold for Headings and Button Labels and Rubik Regular for the Paragraph Text_
+_Ladna by Andree Paat sits in the "workhorse" category of typefaces that can just as easily be used for headlines and running text. As the customised registered trademark symbol and alternative letters are coded into the typeface, the logotype is "writable" without having to have file for the logo - but we do still provide the font in this repo._
 
-<img width="930" alt="Screenshot 2020-04-16 at 08 28 11" src="https://user-images.githubusercontent.com/10923247/79422082-74e58700-7fbc-11ea-956b-806c08ccbcff.png">
-
-_We used Pablo Stanley's Open Peeps Illustrations Kit for the above Hero visual. You can find more here: https://www.openpeeps.com/_
+<img width="639" alt="font-sample" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/5d6a8f64-003e-4bc0-9522-1b73b9c081a2">
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
-**Token Icons**
 
-_They use for the outline, the same gradient background we use for the PieDAO Icon. Their content variates according to the PIE they represent. In the following example: **BTC++**, *USD++* and the empty template _
-
-<img width="1230" alt="token icons" src="https://user-images.githubusercontent.com/10923247/79424320-4073ca00-7fc0-11ea-982b-9e272072757e.png">
-
-<img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
-
-**Usage examples of above's graphic elements**
-
-_You will find some of the following examples throughout PieDAO website and communication materials._
-
-<img width="1239" alt="cards" src="https://user-images.githubusercontent.com/10923247/79425196-a01ea500-7fc1-11ea-8145-581a865dc79b.png">
-
-![Twitter](https://user-images.githubusercontent.com/10923247/79425261-b7f62900-7fc1-11ea-9e6f-04c58993ed17.png)
-
-<img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
-
-**DOUGH Token Icon**
-
-_DOUGH is PieDAO Governance Token. It is the combination of a "pie dough" a "dough roller" and a few lines resembling a price chart. It presents different combinations of color background and gray tones variations. Please use it as displayed in this document. Maintain the same whitespace as indicated for the PieDAO logo above. Please DO NOT change color, stretch or rotate the logo._
-
-![dough](https://user-images.githubusercontent.com/10923247/79426509-87af8a00-7fc3-11ea-9978-3a8486148aca.png)
-
-<img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
-
-You can find all the graphic assets, high-resolution images, and vectors on this repository. 
-If you need anything specific please open an issue on this repository or join our design channel on Discord on the following link:
-https://discord.gg/Mnda9wr
