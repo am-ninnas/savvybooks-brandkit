@@ -18,8 +18,6 @@ _The monogram itself can be used as a stand-alone element on mediums such as soc
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
-</br>
-
 **Colors & Backgrounds**
 
 _Savvybooks brand colours are displayed here. The scale of colors presented on this page also indicates the recommended proportions to be used in designs._
@@ -29,13 +27,12 @@ _Savvybooks brand colours are displayed here. The scale of colors presented on t
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
 **Logo in different color setups**
+
 _Here are displayed colour combinations for Savvybooks logo. Main combinations are white & purple. Note that if using the variant with a puple background, the text is not white but the light lavender. Only if it's not possible to use colours should the black & white versions be used._
 
 ![color-combos](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/ef1dd777-185f-4a98-8530-f06d654bf3eb)
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
-
-<br>
 
 **Font**
 
@@ -54,9 +51,4 @@ _The excel inspired modular grid is one of our main visual elements and becomes 
 _Some of the grid cells can be merged/ combined to give wide possibilities in the element arrangement and create unique look and composition._
 
 ![image](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/5f897683-174f-432f-99a5-922c594dde04)
-
-
-
-
-
 
