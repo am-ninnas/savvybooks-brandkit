@@ -1,0 +1,102 @@
+/* --------------------Master Colors------------------*/
+:root {
+    --background-light: #FFFFFF; 
+    --primary-light: #55349C;
+    --secondary-light: #B5B3BE;
+    --dark-text: #242424;
+    --highlight-lightmode: #6D32EF;
+    --background-dark: #242424;
+    --primary-dark: #ACC45D;
+    --secondary-dark: #38431C;
+    --light-text: #F6F6F6;
+    --highlight-darkmode: #C2E25A;
+}
+
+/* --------------------Default (Light Mode) Styles------------------*/
+
+/* Backgrounds */
+body.light-mode {
+    background-color: var(--background-light);
+    color: var(--dark-text);
+}
+
+.light-mode .modal, .light-mode .popup, .light-mode .window {
+    background-color: var(--background-light);
+}
+
+/* Grid */
+.light-mode .grid {
+  color: var(--secondary-light);
+}
+
+/* Texts */
+
+.light-mode h1, .light-mode h2, .light-mode h3, .light-mode h4, .light-mode h5, .light-mode h6 {
+    color: var(--primary-light);
+}
+
+.light-mode p {
+    color: var(--dark-text);
+}
+
+/* Buttons */
+
+.light-mode .primary-button {
+    background-color: var(--primary-light);
+    color: var(--background-light);
+}
+
+.light-mode .secondary-button {
+    background-color: var(--secondary-light);
+    color: var(--primary-light);
+}
+
+.light-mode .primary-button:hover, .light-mode .secondary-button:hover {
+    background-color: var(--highlight-lightmode);
+}
+
+
+/* ------------------- Dark Mode Styles------------------*/
+
+/* Backgrounds */
+body.dark-mode {
+    background-color: var(--background-dark);
+    color: var(--light-text);
+}
+
+.dark-mode .modal, .dark-mode .popup, .dark-mode .window {
+    background-color: var(--background-dark);
+}
+
+/* Grid */
+dark-mode .grid {
+  color: var(--secondary-dark);
+}
+
+/* Texts */
+
+.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6 {
+    color: var(--primary-dark);
+}
+
+.dark-mode p {
+    color: var(--light-text);
+}
+
+/* Buttons */
+
+.dark-mode .primary-button {
+    background-color: var(--primary-dark);
+    color: var(--secondary-dark);
+}
+
+.dark-mode .secondary-button {
+    background-color: var(--secondary-dark);
+    color: var(--primary-dark);
+}
+
+.dark-mode .primary-button:hover, .dark-mode .secondary-button:hover {
+    background-color: var(--highlight-darkmode);
+}
+
+
