@@ -10,7 +10,7 @@ _Welcome to our brand guidelines and assets. With these guidelines, we want to m
 
 _The minimalist nature of Savvybooks overall brand and logo was inspired by the simplicity of old versions of Excel. The design includes grids, which we will talk more about below. As a rule, when presenting the logo within a grid, it is always right-aligned, inside of what looks like several rows and columns 'merged' into one, with breathing space. The logotype is written in slightly customised Ladna Regular with registered trademark symbol for finishing touch._
 
-![logo](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/e1573d05-eaa1-47f2-9792-32504fb572cf)
+<img width="982" alt="logotype presentation" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/4748d51f-31d5-409e-8a4e-bc3d1aa89c3e">
 
 _The monogram itself can be used as a stand-alone element on mediums such as social media avatars. However, when using it separately, the name of the company/brand/product must be present in the same environment, such as social media profile names. When the logos are used outside the grid, then there has to be safe area around it. The safe area of the logo is defined by the width of the letter "S" from the wordmark - nothing can come closer to the logo than the area highlighted by the red outline. There can be more space around the logo but not less._
 
@@ -20,9 +20,15 @@ _The monogram itself can be used as a stand-alone element on mediums such as soc
 
 **Colors & Backgrounds**
 
-_Savvybooks brand colours are displayed here. The scale of colors presented on this page also indicates the recommended proportions to be used in designs._
+_Savvybooks brand colours are displayed here._
 
-![colors](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/cdab7b2e-0a88-45cc-b683-a4559293c9ab)
+<img width="870" alt="color schemes" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/0e0936d2-4a1d-46ff-bd15-a2d849d697df">
+
+<img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
+
+Here are some examples of how the colors are used for different elements, but you can find exact element styles in the colors.css.
+
+![Examples](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/007596c0-27ca-4993-aa11-063a95ba0daa)
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
@@ -30,7 +36,7 @@ _Savvybooks brand colours are displayed here. The scale of colors presented on t
 
 _Here are displayed colour combinations for Savvybooks logo. Main combinations are white & purple. Note that if using the variant with a puple background, the text is not white but the light lavender. Only if it's not possible to use colours should the black & white versions be used._
 
-![color-combos](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/ef1dd777-185f-4a98-8530-f06d654bf3eb)
+<img width="1270" alt="Logotype in colors" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/b662699a-8199-457b-a021-12bc621623d9">
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
@@ -40,13 +46,18 @@ _Ladna by Andree Paat sits in the "workhorse" category of typefaces that can jus
 
 <img width="639" alt="font-sample" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/5d6a8f64-003e-4bc0-9522-1b73b9c081a2">
 
+RENDER by Aimur Takk is elegant take on a mono typeface. With little bit added charisma, still maintaining that technical feel.
+Get it at www.typokompanii.com/
+
+<img width="639" alt="render font" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/b8c77a4e-d751-4f97-83e0-344e2b2ed624">
+
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
 **Grids**
 
 _The excel inspired modular grid is one of our main visual elements and becomes the starting point for all layouts. Grids provide a framework for organizing content in a way that is visually appealing and easy to follow. By dividing a design into a grid of evenly spaced columns and rows, designers can create a sense of order and structure that helps guide the viewer's eye and makes the design easier to understand. Grids also make it easier to create consistency and uniform spacing._
 
-![image](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/7ac1ab08-341f-4d8e-aab3-f3090f9c8083)
+<img width="3028" alt="Frame 57" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/27932eae-f732-4a88-97d3-0b6cd9360c47">
 
 _Some of the grid cells can be merged/ combined to give wide possibilities in the element arrangement and create unique look and composition._
 
