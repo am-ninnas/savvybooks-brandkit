@@ -11,6 +11,7 @@ _Welcome to our brand guidelines and assets. With these guidelines, we want to m
 _The minimalist nature of Savvybooks overall brand and logo was inspired by the simplicity of old versions of Excel. The design includes grids, which we will talk more about below. As a rule, when presenting the logo within a grid, it is always right-aligned, inside of what looks like several rows and columns 'merged' into one, with breathing space. The logotype is written in slightly customised Ladna Regular with registered trademark symbol for finishing touch._
 
 <img width="982" alt="logotype presentation" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/4748d51f-31d5-409e-8a4e-bc3d1aa89c3e">
+<img width="635" alt="text sitting" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/0535fa2d-2ba3-4db4-83bf-cbf55606891b">
 
 _The monogram itself can be used as a stand-alone element on mediums such as social media avatars. However, when using it separately, the name of the company/brand/product must be present in the same environment, such as social media profile names. When the logos are used outside the grid, then there has to be safe area around it. The safe area of the logo is defined by the width of the letter "S" from the wordmark - nothing can come closer to the logo than the area highlighted by the red outline. There can be more space around the logo but not less._
 
