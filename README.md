@@ -11,7 +11,6 @@ _Welcome to our brand guidelines and assets. With these guidelines, we want to m
 _The minimalist nature of Savvybooks overall brand and logo was inspired by the simplicity of old versions of Excel. The design includes grids, which we will talk more about below. As a rule, when presenting the logo within a grid, it is always right-aligned, inside of what looks like several rows and columns 'merged' into one, with breathing space. The logotype is written in slightly customised Ladna Regular with registered trademark symbol for finishing touch._
 
 <img width="982" alt="logotype presentation" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/4748d51f-31d5-409e-8a4e-bc3d1aa89c3e">
-<img width="635" alt="text sitting" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/0535fa2d-2ba3-4db4-83bf-cbf55606891b">
 
 _The monogram itself can be used as a stand-alone element on mediums such as social media avatars. However, when using it separately, the name of the company/brand/product must be present in the same environment, such as social media profile names. When the logos are used outside the grid, then there has to be safe area around it. The safe area of the logo is defined by the width of the letter "S" from the wordmark - nothing can come closer to the logo than the area highlighted by the red outline. There can be more space around the logo but not less._
 
@@ -61,6 +60,8 @@ _The excel inspired modular grid is one of our main visual elements and becomes 
 <img width="3028" alt="Frame 57" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/27932eae-f732-4a88-97d3-0b6cd9360c47">
 
 _Some of the grid cells can be merged/ combined to give wide possibilities in the element arrangement and create unique look and composition._
+
+<img width="863" alt="text rule" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/d480e91d-8c4e-4efd-9fa7-f5a6b8e182ec">
 
 ![image](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/5f897683-174f-432f-99a5-922c594dde04)
 
