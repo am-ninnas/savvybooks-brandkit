@@ -12,6 +12,7 @@ _The minimalist nature of Savvybooks overall brand and logo was inspired by the 
 
 <img width="982" alt="logotype presentation" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/4748d51f-31d5-409e-8a4e-bc3d1aa89c3e">
 
+
 _The monogram itself can be used as a stand-alone element on mediums such as social media avatars. However, when using it separately, the name of the company/brand/product must be present in the same environment, such as social media profile names. When the logos are used outside the grid, then there has to be safe area around it. The safe area of the logo is defined by the width of the letter "S" from the wordmark - nothing can come closer to the logo than the area highlighted by the red outline. There can be more space around the logo but not less._
 
 <img width="873" alt="logo-white-space" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/0b744a9b-756a-4511-9117-00c8277a446f">
@@ -28,7 +29,7 @@ _Savvybooks brand colours are displayed here._
 
 Here are some examples of how the colors are used for different elements, but you can find exact element styles in the colors.css.
 
-![Examples](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/007596c0-27ca-4993-aa11-063a95ba0daa)
+![Ui examples light and dark](https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/c67b6fa8-b385-483f-8614-dd6b7a94cc39)
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
@@ -36,7 +37,7 @@ Here are some examples of how the colors are used for different elements, but yo
 
 _Here are displayed colour combinations for Savvybooks logo. Main combinations are white & purple. Note that if using the variant with a puple background, the text is not white but the light lavender. Only if it's not possible to use colours should the black & white versions be used._
 
-<img width="1270" alt="Logotype in colors" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/b662699a-8199-457b-a021-12bc621623d9">
+<img width="1270" alt="Logotype in color schemes" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/ab60870b-0045-400d-bacb-00263cd90ba5">
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
@@ -46,10 +47,9 @@ _Ladna by Andree Paat sits in the "workhorse" category of typefaces that can jus
 
 <img width="639" alt="font-sample" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/5d6a8f64-003e-4bc0-9522-1b73b9c081a2">
 
-RENDER by Aimur Takk is elegant take on a mono typeface. With little bit added charisma, still maintaining that technical feel.
-Get it at www.typokompanii.com/
+_We do not currently own a custom font for darkmode, however as of right now the closest and most accessible font to use would be the Sometype Mono font, in regulat weight._
 
-<img width="639" alt="render font" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/b8c77a4e-d751-4f97-83e0-344e2b2ed624">
+<img width="771" alt="temporary dark mode font" src="https://github.com/am-ninnas/savvybooks-brandkit/assets/157032223/b58a2f34-5e50-4572-a376-a678cd6d2b49">
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
